@@ -8,7 +8,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ArunKumarS?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter] -->
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
-- 🌱 &ensp;I’m currently learning Angualr 2+, Flutter, React  ❤️
+- 🌱 &ensp;I’m currently working Angualr 2+, Javascript, Nodejs, Nextjs  ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I am one of the early adopters of Angualr, it has been more than 2 years
 - ⚡ &ensp;Fun fact: I love reading and learning new thing
@@ -60,7 +60,7 @@
 **arun-mmc/arun-mmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- [website]: https://johannesmilke.com -->
+ [website]: https://web-arunkumars.web.app
 <!-- [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farunkuse&screen_name=arunkuse -->
 [youtube]: https://www.youtube.com/channel/UC1V3etIB1Zdgcfr5LQ0vOBQ?sub_confirmation=1
 <!-- [linkedin]: https://linkedin.com/in/arunkuse -->
